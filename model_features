@@ -1,0 +1,32 @@
+# Alcohol predictor
+gender
+age
+mother_education
+internet
+travel_time_to_work
+marital_status
+goout
+family_size
+job_type
+has_children
+
+
+
+## Betting Model
+game_number
+sport
+team_A
+team_B
+winning_team
+tabcorp_odds
+ladbrokes_odds
+william hill_odds
+sportsbet_odds
+result_last_game
+result_2_games_ago
+result_3_games_ago
+home_game_flag
+away_game_flag
+score_margin_last_game
+score_margin_2_games_ago
+score_margin_3_games_ago
